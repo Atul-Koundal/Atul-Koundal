@@ -9,4 +9,4 @@ mocode      ts      write human movement as text, see it in 3D    Atul-Koundal/M
 
 [FlowChan](https://github.com/Atul-Koundal/FlowChan) · [SnailDB](https://github.com/Atul-Koundal/SnailDB) · [protoverse](https://github.com/Atul-Koundal/protoverse) · [Mocode](https://github.com/Atul-Koundal/Mocode)
 
-[LinkedIn](https://www.linkedin.com/in/atul-koundal-396185328/) · [Email](atul.official2006@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/atul-koundal-396185328/) · [Email](https://mail.google.com/mail/?view=cm&fs=1&to=atul.official2006@gmail.com)
