@@ -1,16 +1,12 @@
-## Hi there 👋
+```console
+$ docker ps
+NAME        IMAGE   DOES                                          REPO
+flowchan    go      concurrency toolkit: pools, pipelines, retry  Atul-Koundal/FlowChan
+snaildb     rust    AI-native SQL database, built from scratch    Atul-Koundal/SnailDB
+protoverse  go      tick-based space strategy game backend        Atul-Koundal/protoverse
+mocode      ts      write human movement as text, see it in 3D    Atul-Koundal/Mocode
+```
 
-<!--
-**Atul-Koundal/Atul-Koundal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[FlowChan](https://github.com/Atul-Koundal/FlowChan) · [SnailDB](https://github.com/Atul-Koundal/SnailDB) · [protoverse](https://github.com/Atul-Koundal/protoverse) · [Mocode](https://github.com/Atul-Koundal/Mocode)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/atul-koundal-396185328/) · [Email](atul.official2006@gmail.com)
